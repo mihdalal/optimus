@@ -1,0 +1,6 @@
+resources/optimus/microwave_policy_wide.mp4 filter=lfs diff=lfs merge=lfs -text
+resources/optimus/multistep_pickplace_four_high_res.mp4 filter=lfs diff=lfs merge=lfs -text
+resources/optimus/microwave_1_wide.mp4 filter=lfs diff=lfs merge=lfs -text
+resources/optimus/microwave_2_wide.mp4 filter=lfs diff=lfs merge=lfs -text
+resources/optimus/microwave_3_wide.mp4 filter=lfs diff=lfs merge=lfs -text
+resources/optimus/microwave_4_wide.mp4 filter=lfs diff=lfs merge=lfs -text
